@@ -11,6 +11,12 @@ div{
 h2{
     color: #4aaaa5;
 }
+
+.first{
+    position: relative;
+    
+}
+
 section{
     position: relative;
     left: 350px;
@@ -23,8 +29,8 @@ section{
 img{
     position: relative;
     left: 20px;
-    width: 90px;
-    height: 90px;
+    width: 150px;
+    height: 150px;
 }
 
 
