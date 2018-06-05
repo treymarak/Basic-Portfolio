@@ -17,6 +17,37 @@ h1{
     padding: 30px;
 }
 
+.boxset{
+    color: #777777;
+    font-size: 14px;
+}
+
+.About{
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    right: 250px;
+    width: 100px;
+    height: 50px;
+}
+
+.Portfolio{
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    right: 150px;
+    width: 100px;
+    height: 50px;
+}
+.Contact{
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    right: 50px;
+    width: 100px;
+    height: 50px;
+}
+
 h2{
     color: #4aaaa5;
 }
