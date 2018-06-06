@@ -5,19 +5,27 @@ body{
 h1{
     background-color: #4aaaa5;
     color: white;
-    text-align: center;
-    position: fixed;
-    left: 350px;
+    align-content: center;
+    position: relative;
+    height: 40px;
+    /* left: 350px;
     width: 150px;
-    height: 60px;
+    height: 60px; */
 }
 
 .header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     background-color: #ffffff;
     padding: 30px;
+    border: 1px solid red;
 }
 
 .boxset{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #666666;
     color: #777777;
     font-size: 14px;
 }
@@ -69,12 +77,14 @@ h2{
     height: 300px;
     background-color: #ffffff;
     color: #777777;
+    padding: 15px;
 }
 
 img{
     float: left;
     width: 150px;
     height: 150px;
+    padding: 20px;
 }
 
 .line{
