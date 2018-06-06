@@ -50,16 +50,23 @@ h1{
 
 h2{
     color: #4aaaa5;
+    background-color: #ffffff;
+    position: fixed;
+    text-align: justify;
+    font-family: times;
+    font-size: 24px;
+    top: 100px;
+    left: 300px;
+    width: 66.4%;
+    height: 50px;
 }
-
-
 
 .section{
     position: fixed;
-    top: 100px;
-    left: 350px;
-    width: 800px;
-    height: 450px;
+    top: 150px;
+    left: 300px;
+    width: 850px;
+    height: 300px;
     background-color: #ffffff;
     color: #777777;
 }
