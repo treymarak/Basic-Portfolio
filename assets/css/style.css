@@ -137,3 +137,9 @@ input{
     width: 800px;
     height: 30px;
 }
+
+input[id="fmessage"]{
+
+    width: 800px;
+    height: 200px;
+}
