@@ -154,3 +154,18 @@ input[type="submit"]{
     width: 80px;
     height: 28px;
 }
+
+
+
+
+.picture{
+
+    position: fixed;
+    top: 150px;
+    left: 300px;
+    width: 820px;
+    height: 400px;
+    background-color: #ffffff;
+    color: #777777;
+    padding: 15px;
+}
