@@ -180,27 +180,34 @@ img[alt="Comic Books"]{
 img[alt="Cooking"]{
 
     position: fixed;
+    left: 650px;
 
 }
 
 img[alt="Golf"]{
 
     position: fixed;
+    right: 150px;
 
 }
 
 img[alt="Music"]{
 
     position: fixed;
+    bottom: 100px;
 
 }
 
 img[alt="Aggie Sports"]{
 
     position: fixed;
+    bottom: 100px;
+    left: 650px;
 }
 
 img[alt="Dallas Sports"]{
 
     position: fixed;
+    bottom: 100px;
+    right: 150px;
 }
