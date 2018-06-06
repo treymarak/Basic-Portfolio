@@ -169,3 +169,38 @@ input[type="submit"]{
     color: #777777;
     padding: 15px;
 }
+
+img[alt="Comic Books"]{
+
+    position: fixed;
+
+
+}
+
+img[alt="Cooking"]{
+
+    position: fixed;
+
+}
+
+img[alt="Golf"]{
+
+    position: fixed;
+
+}
+
+img[alt="Music"]{
+
+    position: fixed;
+
+}
+
+img[alt="Aggie Sports"]{
+
+    position: fixed;
+}
+
+img[alt="Dallas Sports"]{
+
+    position: fixed;
+}
