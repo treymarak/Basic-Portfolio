@@ -173,6 +173,7 @@ input[type="submit"]{
 img[alt="Comic Books"]{
 
     position: fixed;
+    z-index: -1;
 
 }
 
@@ -209,4 +210,15 @@ img[alt="Dallas Sports"]{
     position: fixed;
     bottom: 100px;
     right: 220px;
+}
+
+label[for="Comic Books"]{
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    left: 20px;
+    top: 133px;
+    
 }
