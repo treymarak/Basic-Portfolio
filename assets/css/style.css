@@ -181,21 +181,21 @@ img[alt="Cooking"]{
 
     position: fixed;
     left: 575px;
-
+    z-index: -1;
 }
 
 img[alt="Golf"]{
 
     position: fixed;
     right: 220px;
-
+    z-index: -1;
 }
 
 img[alt="Music"]{
 
     position: fixed;
     bottom: 100px;
-
+    z-index: -1;
 }
 
 img[alt="Aggie Sports"]{
@@ -203,6 +203,7 @@ img[alt="Aggie Sports"]{
     position: fixed;
     bottom: 100px;
     left: 575px;
+    z-index: -1;
 }
 
 img[alt="Dallas Sports"]{
@@ -210,9 +211,11 @@ img[alt="Dallas Sports"]{
     position: fixed;
     bottom: 100px;
     right: 220px;
+    z-index: -1;
 }
 
 label[for="Comic Books"]{
+
     background-color: #4aaaa5;
     color: white;
     text-align: center;
@@ -221,4 +224,59 @@ label[for="Comic Books"]{
     left: 20px;
     top: 133px;
     
+}
+
+label[for="Cooking"]{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    left: 355px;
+    top: 133px;
+}
+
+label[for="Golf"]{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    right: 20px;
+    top: 133px;
+}
+
+label[for="Music"]{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    left: 20px;
+    bottom: 37px;
+}
+
+label[for="Aggie Sports"]{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    left: 355px;
+    bottom: 37px;
+}
+
+label[for="Dallas Sports"]{
+
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+    right: 20px;
+    bottom: 37px;
 }
