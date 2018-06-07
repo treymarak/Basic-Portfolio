@@ -139,7 +139,7 @@ input{
 }
 
 
-input[id="fmessage"]{
+textarea[id="fmessage"]{
 
     width: 800px;
     height: 200px;
