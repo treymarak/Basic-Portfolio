@@ -61,6 +61,24 @@ h1{
     height: 25px;
 }
 
+.About:hover{
+
+    background-color: #4aaaa5;
+    
+}
+
+.Portfolio:hover{
+
+    background-color: #4aaaa5;
+    
+}
+
+.Contact:hover{
+
+    background-color: #4aaaa5;
+    
+}
+
 h2{
     color: #4aaaa5;
     background-color: #ffffff;
@@ -212,6 +230,42 @@ img[alt="Dallas Sports"]{
     bottom: 100px;
     right: 220px;
     z-index: -1;
+}
+
+img[alt="Comic Books"]:hover{
+
+background-color: blue;
+
+}
+
+img[alt="Cooking"]:hover{
+
+background-color:yellow;
+    
+}
+
+img[alt="Golf"]:hover{
+
+background-color: green;
+        
+}
+
+img[alt="Music"]:hover{
+
+background-color: black;
+            
+}
+
+img[alt="Aggie Sports"]:hover{
+
+    background-color: maroon;
+    
+}
+
+img[alt="Dallas Sports"]:hover{
+
+    background-color: royalblue;
+    
 }
 
 label[for="Comic Books"]{
