@@ -1,3 +1,5 @@
+/* Stylesheet for index page */
+
 body{
     background-color: #dddddd;
 }
@@ -138,7 +140,7 @@ img{
 }
 
 
-
+/* Stylesheet for contact page */
 
 .info{
     position: fixed;
@@ -174,7 +176,7 @@ input[type="submit"]{
 }
 
 
-
+/* Stylesheet for portfolio page */
 
 .picture{
 
