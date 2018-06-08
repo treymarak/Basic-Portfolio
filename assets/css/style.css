@@ -14,7 +14,10 @@ h1{
     right: 55px;
     padding-top: 15px;
 }
-
+a{
+    text-decoration: none;
+    color: #777777;
+}
 .header{
     display: flex;
     justify-content: space-around;
@@ -170,7 +173,7 @@ input[type="submit"]{
     background-color: #4aaaa5;
     color: white;
     position: relative;
-    top: 15px;
+    bottom: 8px;
     width: 80px;
     height: 28px;
 }
