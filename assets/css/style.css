@@ -92,7 +92,7 @@ h2{
     font-size: 24px;
     top: 100px;
     left: 225px;
-    width: 64.9%;
+    width: 66.3%;
     height: 50px;
     padding-top: 12px;
     padding-left: 19px;
@@ -303,7 +303,7 @@ label[for="Golf"]{
     text-align: center;
     width: 150px;
     position: absolute;
-    right: 20px;
+    right: 46px;
     top: 133px;
 }
 
@@ -336,6 +336,6 @@ label[for="Dallas Sports"]{
     text-align: center;
     width: 150px;
     position: absolute;
-    right: 20px;
+    right: 46px;
     bottom: 37px;
 }
